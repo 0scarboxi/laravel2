@@ -7,6 +7,8 @@ Este es un proyecto increíble que hace X, Y, Z.
 
 1. Clona este repositorio en tu máquina local:
 
+URL del repositorio: https://github.com/0scarboxi/laravel2.git
+
     ```bash
     git clone https://github.com/0scarboxi/laravel2.git
     ```
@@ -24,19 +26,19 @@ Este es un proyecto increíble que hace X, Y, Z.
     npm install
     ```
 
-6. Ejecuta las migraciones para crear las tablas de la base de datos:
+4. Ejecuta las migraciones para crear las tablas de la base de datos:
 
     ```bash
     php artisan migrate
     ```
 
-7. Rellena las tablas con :
+5. Rellena las tablas con :
 
     ```bash
     php artisan db:seed
     ```
 
-8. Abre tu navegador web y navega a la siguiente URL para acceder a la aplicación web:
+6. Abre tu navegador web y navega a la siguiente URL para acceder a la aplicación web:
 
     ```
     http://laravel2.local
